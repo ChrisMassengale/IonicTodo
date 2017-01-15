@@ -1,0 +1,6 @@
+/* Empty. Add your own CSS if you like */
+.complete{color: complete;
+  text-decoration: line-through;}
+.item-content {
+  background-color: green;
+}
